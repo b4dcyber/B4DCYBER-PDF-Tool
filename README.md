@@ -32,4 +32,3 @@ Then open http://localhost:8000.
 ## Notes
 PDF-to-Word extracts text into DOCX and does not guarantee original layout preservation. Scanned PDFs can be processed with OCR.
 
-No organization-specific or NRTC-specific information is included.
